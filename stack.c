@@ -1,3 +1,9 @@
+/*
+Author: RESHMA B M
+Reg no: 201051013
+Department: ME MACHINE LEARNING
+*/
+
 #include <stdint.h>
 #include <assert.h>
 #include "stacklink.h"
