@@ -1,3 +1,9 @@
+/*
+Author: RESHMA B M
+Reg no: 201051013
+Department: ME MACHINE LEARNING
+*/
+
 #ifndef STACKLINK_H_INCLUDED
 #define STACKLINK_H_INCLUDED
 #include <stdint.h>
